@@ -1,5 +1,4 @@
 # FilterPruning
-Filter level pruning based on Convolutions clustering
 
 В данном репозитории реализован один из методов filter level pruning'a.
 На датасете CIFAR10 была обучена resnet20. После к ней было применено несколько видов pruning'a основанных на извлечении центроида кластеризации.
